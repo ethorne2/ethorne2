@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ethorne2
-- 👀 I’m interested in Web Development, Cyber Security and Software Engineering
-- 🌱 I’m currently learning Computer Science at Oregon State University
-- 💞️ I’m looking to collaborate on specialty projects regarding the outdoors and cats
-- 💻 I just participated in my first Hackathon in January 2022 & I think I might be hooked
+- 👀 I’m interested in Software Engineering, Web Development and Cyber Security.
+- 🌱 I’m learning Computer Science at Oregon State University and currently a web tech intern.
+- 💞️ I’m looking to collaborate on specialty projects regarding the outdoors, cats or horror movies.
+- 💻 I just participated in my first Hackathon in January 2022 & I think I might be hooked...
 - 📫 How to reach me: thorneel@oregonstate.edu
 
 <!---
