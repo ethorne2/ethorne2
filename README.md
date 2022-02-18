@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethorne2
-- 👀 I’m interested in Software Engineering, Web Development and Cyber Security.
+- 👀 I’m interested in Software Engineering and Web Development.
 - 🌱 I’m learning Computer Science at Oregon State University.
 - 💼 I am employed as a web tech intern for OSU Foundation & an upcoming SWE intern for Summer 2022.
 - 💞️ I’m looking to collaborate on specialty projects regarding the outdoors, cats or horror movies.
