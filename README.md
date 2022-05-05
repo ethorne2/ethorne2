@@ -3,7 +3,7 @@
 - 🌱 I’m learning Computer Science at Oregon State University.
 - 💼 I've worked as a web tech intern for OSU Foundation & will be a SWE intern at Cvent for Summer 2022.
 - 💞️ I’m looking to collaborate on specialty projects regarding the outdoors, cats or horror movies.
-- 💻 I just participated in my first Hackathon in January 2022 & I think I might be hooked...
+- 💻 I recently participated in my first Hackathon & I think I might be hooked...
 - 📫 How to reach me: thorneel@oregonstate.edu
 
 <!---
