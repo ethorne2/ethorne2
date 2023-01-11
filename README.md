@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Elizabeth!
-- 👀 I’m really into Software Engineering.
+- 👋 Hi, I’m Liz!
 - 🌱 I’m learning Computer Science at Oregon State University.
 - 💼 I'm a Software Engineer Intern at Cvent.
-- 💞️ I’m looking to collaborate on specialty projects regarding the outdoors, cats & horror movies.
+- 💞️ I’m looking to collaborate on projects involving the outdoors, cats & horror movies.
 - 📫 How to reach me: thorneel@oregonstate.edu
 
 <!---
