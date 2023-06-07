@@ -2,7 +2,7 @@
 - 🌱 I’m learning Computer Science at Oregon State University.
 - 💼 I'm a new Software Engineer in SaaS technology.
 - 💞️ I’m looking to collaborate on projects involving the outdoors, cats & horror movies.
-- 📫 How to reach me: thorneel@oregonstate.edu
+- 📫 How to reach me: [my LinkedIn](http://www.linkedin.com/in/elizabeth-thorne/)
 
 <!---
 ethorne2/ethorne2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
