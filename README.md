@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liz!
-- 🌱 I’m learning Computer Science at Oregon State University.
+- 🌱 I have a BS in Computer Science from Oregon State University.
 - 💼 I'm a new Software Engineer in SaaS technology.
 - 💞️ I’m looking to collaborate on projects involving the outdoors, cats & horror movies.
 - 📫 How to reach me: [my LinkedIn](http://www.linkedin.com/in/elizabeth-thorne/)
